@@ -1,0 +1,269 @@
+* { 
+    margin : 0; 
+    padding : 0; 
+}
+/* The above resets the margin/padding to 0 since it is not 0 by default.  this is a good practice */
+
+
+
+.navbar{
+    background-color: black;
+}
+
+.navcontent{
+    width: 1000px;
+    margin: 0 auto;
+    color: white;
+    height: 80px;
+    display: flex;
+    align-items: center;
+    justify-content:space-between;
+}
+
+.nav-links {
+    width: 50%;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    color: white;
+}
+
+button{
+    background-color: aqua;
+    color: white;
+    height: 30px;
+    width: 100px;
+}
+
+.container{
+    height: auto;
+    width: 1000px;
+    padding-top: 20px;
+    background-color: white;
+    margin: 10px;
+}
+
+.containercontent{
+    display: flex;
+    align-content: center;
+    justify-content: center;
+    margin: 10px;
+    width: 1000px;
+    height: auto;
+    padding-left: 410px;
+}
+
+.lefside{
+    margin: 10px;
+    padding: 10px;
+}
+
+.rightside{
+    margin-top: -10px;
+    padding: 10px;
+}
+
+.profileblocktop{
+    height: 100px;
+    width: 600px;
+    background-color: aqua;
+}
+
+.profile-pic{
+    border-radius: 20px;
+    background-color: white;
+    height: 150px;
+    padding: 5px;
+    margin-top: 20px;
+    margin-left: 20px;
+}
+
+.profileblock{
+    border: 2px solid black;
+    margin-right: 20px;
+    width: 600px;
+    height: 400px;
+}
+
+.map-marker{
+    height: 15px;
+}
+
+.gear{
+    height: 15px;
+    margin-left: 20px;
+}
+
+.todd{
+    height: 50px;
+    border-radius: 50%;
+    margin-left: 15px;
+    margin-top: 10px;
+    margin-right: 10px;
+}
+
+.phil{
+    height: 50px;
+    border-radius: 50%;
+    margin-left: 15px;
+    margin-top: 10px;
+    margin-right: 10px;
+}
+
+.adrien{
+    height: 50px;
+    border-radius: 50%;
+    margin-left: 15px;
+    margin-top: 10px;
+    margin-right: 10px;
+}
+
+.anne{
+    height: 50px;
+    border-radius: 50%;
+    margin-left: 15px;
+    margin-top: 10px;
+    margin-right: 10px;
+}
+
+.alayne{
+    height: 50px;
+    border-radius: 50%;
+    margin-left: 15px;
+    margin-top: 10px;
+    margin-right: 10px;
+}
+
+.arry{
+    height: 50px;
+    border-radius: 50%;
+    margin-left: 15px;
+    margin-top: 10px;
+    margin-right: 10px;
+}
+.accept{
+    height: 50px;
+    border-radius: 50%;
+    margin-left: 50px;
+}
+
+.close-circle{
+    height: 50px;
+    border-radius: 50%;
+}
+
+.name{
+    margin: 20px;
+}
+
+.location{
+    margin: 20px;
+}
+
+p{
+    margin: 20px;
+}
+
+.connectionrequests{
+    border: 2px solid black;
+    font-size: large;
+    height: 300px;
+    width: 300px;
+    font-size: large;
+}
+
+.CRnumber{
+    border-radius: 20px;
+    width: 20px;
+    padding: 10x;
+    padding-left: 10px;
+    background-color: white;
+    color: black;
+    margin-right: 10px;
+}
+
+.YCnumber{
+    border-radius: 30px;
+    width: 40px;
+    padding: 10x;
+    padding-left: 10px;
+    background-color: white;
+    color: black;
+    margin-right: 20px;
+}
+
+.CRtop{
+    background-color: rgb(90, 88, 88);
+    color: white;
+    height: 33.3%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.requests{
+    align-items: center;
+    justify-content: center;
+    height: 400px;
+}
+
+.educationblock{
+    border: 2px solid black;
+    margin-top: 20px;
+    width: 600px;
+    height: 200px;
+    font-size: larger;
+}
+
+.EBtop{
+    padding-left: 20px;
+    color: white;
+    background-color: rgb(90, 88, 88);
+    height: 15%;
+    display: flex;
+    align-items: center;
+    justify-content: left;
+    margin-bottom: 20px;
+    
+}
+
+.yourconnections{
+    border: 2px solid black;
+    margin-top: 20px;
+    height: 400px;
+}
+
+.YCtop{
+    color: white;
+    background-color: rgb(90, 88, 88);
+    height: 15%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.YCcontent{
+    display: flex;
+    justify-content: center;
+    align-content: space-between;
+    height: 75%;
+}
+
+.viewmore{
+    display: flex;
+    justify-content: center;
+    height: 10%;
+    align-content: bottom;
+}
+
+
+
+
+
+
+
+
+
+
+
+

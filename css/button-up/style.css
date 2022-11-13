@@ -1,0 +1,30 @@
+.button1 button{
+    color: aquamarine;
+    border-color: aquamarine;
+    background-color: white;
+    border-radius: 50px;
+    width: 150px;
+    height: 30px;
+    margin-bottom: 20px;
+    font-size: medium;
+}
+
+.button2 button{
+    color: white;
+    background-color: aquamarine;
+    border-radius: 50%;
+    height: 50px;
+    width: 50px;
+    margin-bottom: 20px;
+    font-size: x-large;
+}
+
+.button3 button{
+    background-color: rgb(6, 114, 238);
+    color: white;
+    width: 200px;
+    height: 40px;
+    box-shadow: 5px 5px 0px 0px black;
+    font-size: large;
+    
+}

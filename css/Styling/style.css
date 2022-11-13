@@ -1,0 +1,31 @@
+* {
+    font-family: sans-serif;
+}
+
+h1 {
+    background-color: black;
+    color: white;
+    height: 50px;
+    font-size: 35px
+}
+
+h1 span {
+    color: cyan;
+}
+
+h2 {
+    background-color: rebeccapurple;
+    color: white;
+    text-align: center;
+    font-style: italic;
+    height: 50px;
+    font-size: 30px
+}
+
+h3 {
+    background-color: cadetblue;
+    text-align: right;
+    text-decoration: underline;
+    height: 50px;
+    font-size: 30px
+}

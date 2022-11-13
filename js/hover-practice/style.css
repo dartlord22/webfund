@@ -1,0 +1,40 @@
+.container{
+    width: 1080px;
+    margin: 0 auto;
+    display: flex;
+    justify-content: space-between;
+    padding-top: 20px;
+}
+
+.box1{
+    height: 100px;
+    width: 100px;
+    border: 1px solid black;
+}
+
+.box2{
+    height: 100px;
+    width: 100px;
+    border: 1px solid black;
+}
+
+.box3{
+    height: 100px;
+    width: 100px;
+    border: 1px solid black;
+}
+
+.color{
+    background-color: green;
+    cursor: pointer;
+}
+
+.color2{
+    background-color: blue;
+}
+
+button{
+    height: 60px;
+    width: 100px;
+    cursor: pointer;
+}
